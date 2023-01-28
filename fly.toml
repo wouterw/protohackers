@@ -10,6 +10,7 @@ ADDR = "0.0.0.0:3000"
 
 [experimental]
   auto_rollback = true
+  cmd = "protohackers"
 
 [[services]]
   internal_port = 3000
